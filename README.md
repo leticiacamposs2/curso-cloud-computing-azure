@@ -3,8 +3,8 @@
 #### Módulo 1: Primeiros passos
 
 - [x] Vamos começar!
-- [ ] Overview sobre o Módulo - Introdução à Cloud Computing
-- [ ] O que é Computação em Nuvem?
+- [x] Overview sobre o Módulo - Introdução à Cloud Computing
+- [x] O que é Computação em Nuvem?
 
 ---
 
