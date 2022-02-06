@@ -10,11 +10,11 @@
 
 #### Módulo 2: Tipos e benefícios da Computação em Nuvem
 
-- [ ] Quais os Benefícios da Computação em Nuvem?
-- [ ] Tipos de Computação em Nuvem
-- [ ] Nuvem Privada
-- [ ] Nuvem Pública
-- [ ] Nuvem Híbrida
+- [x] Quais os Benefícios da Computação em Nuvem?
+- [x] Tipos de Computação em Nuvem
+- [x] Nuvem Privada
+- [x] Nuvem Pública
+- [x] Nuvem Híbrida
 
 ---
 
@@ -33,3 +33,12 @@ _continua...._
 ---
 
 _continua...._
+
+--- 
+
+#### Referências:
+
+- [Principles cloud computing](https://docs.microsoft.com/learn/modules/principles-cloud-computing)
+- [What is a private cloud](https://azure.microsoft.com/pt-br/overview/what-is-a-private-cloud)
+- [What is a public cloud](https://azure.microsoft.com/pt-br/overview/what-is-a-public-cloud)
+- [What is a hybrid cloud computing](https://azure.microsoft.com/pt-br/overview/what-is-hybrid-cloud-computing)
