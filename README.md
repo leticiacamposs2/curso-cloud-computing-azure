@@ -84,7 +84,7 @@
 - [What is a public cloud](https://azure.microsoft.com/pt-br/overview/what-is-a-public-cloud)
 - [What is a hybrid cloud computing](https://azure.microsoft.com/pt-br/overview/what-is-hybrid-cloud-computing)
 - [Types of cloud computing](https://azure.microsoft.com/pt-br/overview/types-of-cloud-computing)
-- [What is IaaS?](https://azure.microsoft.com/pt-br/overview/what-is-iaas)
+- [What is IaaS](https://azure.microsoft.com/pt-br/overview/what-is-iaas)
 - [What is PaaS](https://azure.microsoft.com/overview/what-is-paas)
 - [What is SaaS](https://azure.microsoft.com/overview/what-is-saas)
 - [Serverless](https://azure.microsoft.com/services/functions)
