@@ -86,7 +86,7 @@
 - [Types of cloud computing](https://azure.microsoft.com/pt-br/overview/types-of-cloud-computing)
 - [What is IaaS?](https://azure.microsoft.com/pt-br/overview/what-is-iaas)
 - [What is PaaS](https://azure.microsoft.com/overview/what-is-paas)
-- [What is Saas](https://azure.microsoft.com/overview/what-is-saas)
+- [What is SaaS](https://azure.microsoft.com/overview/what-is-saas)
 - [Serverless](https://azure.microsoft.com/services/functions)
 - [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals)
 - [Introduction to Azure fundamentals](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/)
