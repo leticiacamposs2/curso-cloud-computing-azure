@@ -39,17 +39,17 @@
 
 #### Módulo 4: Fundamentos de Azure
 
-- [ ] Overview sobre Módulo - Fundamentos do Azure
-- [ ] O que é Azure?
-- [ ] Principais categorias de serviço do Azure
-- [ ] Tipos de serviços de computação
-- [ ] Tipos de serviços de rede
-- [ ] Tipos de serviços de armazenamento
-- [ ] Tipos de serviços banco de dados
-- [ ] Tipos de serviços web
-- [ ] Tipos de serviços de big data
-- [ ] Tipos de serviços de inteligência artificial
-- [ ] Tipos de serviços de DevOps
+- [x] Overview sobre Módulo - Fundamentos do Azure
+- [x] O que é Azure?
+- [x] Principais categorias de serviço do Azure
+- [x] Tipos de serviços de computação
+- [x] Tipos de serviços de rede
+- [x] Tipos de serviços de armazenamento
+- [x] Tipos de serviços banco de dados
+- [x] Tipos de serviços web
+- [x] Tipos de serviços de big data
+- [x] Tipos de serviços de inteligência artificial
+- [x] Tipos de serviços de DevOps
 
 ---
 
@@ -65,12 +65,15 @@
 - [ ] O que é Portal Azure?
 - [ ] Demo - Portal Azure
 - [ ] O que é Azure Marketplace?
-
-_continua...._
-
----
-
-_continua...._
+- [ ] Demo - Azure Marketplace
+- [ ] Azure Resource Manager
+- [ ] O que é Azure Resource Manager?
+- [ ] Terminologias importantes do ARM
+- [ ] Entendendo melhor o ARM e seu escopo
+- [ ] O que é um grupo de recursos?
+- [ ] O que é uma assinatura do Azure?
+- [ ] Demo - Grupo de recursos e recursos?
+- [ ] Prova de cerificação AZ-900
 
 --- 
 
@@ -86,3 +89,4 @@ _continua...._
 - [What is Saas](https://azure.microsoft.com/overview/what-is-saas)
 - [Serverless](https://azure.microsoft.com/services/functions)
 - [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals)
+- [Introduction to Azure fundamentals](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/)
