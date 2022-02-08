@@ -55,23 +55,23 @@
 
 #### Módulo 5: Explorando o Azure
 
-- [ ] Conta Azure
-- [ ] O que é conta gratuita do Azure?
-- [ ] Quais produtos são gratuitos durante um ano?
-- [ ] Quais produtos são sempre gratuitos?
-- [ ] O que é conta Azure for students?
-- [ ] Quais produtos são sempre gratuitos?
-- [ ] Portal Azure
-- [ ] O que é Portal Azure?
-- [ ] Demo - Portal Azure
-- [ ] O que é Azure Marketplace?
-- [ ] Demo - Azure Marketplace
-- [ ] Azure Resource Manager
-- [ ] O que é Azure Resource Manager?
-- [ ] Terminologias importantes do ARM
-- [ ] Entendendo melhor o ARM e seu escopo
-- [ ] O que é um grupo de recursos?
-- [ ] O que é uma assinatura do Azure?
+- [x] Conta Azure
+- [x] O que é conta gratuita do Azure?
+- [x] Quais produtos são gratuitos durante um ano?
+- [x] Quais produtos são sempre gratuitos?
+- [x] O que é conta Azure for students?
+- [x] Quais produtos são sempre gratuitos?
+- [x] Portal Azure
+- [x] O que é Portal Azure?
+- [x] Demo - Portal Azure
+- [x] O que é Azure Marketplace?
+- [x] Demo - Azure Marketplace
+- [x] Azure Resource Manager
+- [x] O que é Azure Resource Manager?
+- [x] Terminologias importantes do ARM
+- [x] Entendendo melhor o ARM e seu escopo
+- [x] O que é um grupo de recursos?
+- [x] O que é uma assinatura do Azure?
 - [ ] Demo - Grupo de recursos e recursos?
 - [ ] Prova de cerificação AZ-900
 
@@ -90,3 +90,7 @@
 - [Serverless](https://azure.microsoft.com/services/functions)
 - [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals)
 - [Introduction to Azure fundamentals](https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/)
+- [Create an Azure account](https://docs.microsoft.com/pt-br/learn/modules/create-an-azure-account)
+- [Azure For Students](https://azure.microsoft.com/pt-br/free/students)
+- [Azure Resource Manager](https://docs.microsoft.com/pt-br/azure/azure-resource-manager)
+- [Management Groups](https://docs.microsoft.com/pt-br/azure/governance/management-groups)
