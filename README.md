@@ -72,8 +72,8 @@
 - [x] Entendendo melhor o ARM e seu escopo
 - [x] O que é um grupo de recursos?
 - [x] O que é uma assinatura do Azure?
-- [ ] Demo - Grupo de recursos e recursos?
-- [ ] Prova de cerificação AZ-900
+- [x] Demo - Grupo de recursos e recursos?
+- [x] Prova de cerificação AZ-900
 
 --- 
 
@@ -94,3 +94,6 @@
 - [Azure For Students](https://azure.microsoft.com/pt-br/free/students)
 - [Azure Resource Manager](https://docs.microsoft.com/pt-br/azure/azure-resource-manager)
 - [Management Groups](https://docs.microsoft.com/pt-br/azure/governance/management-groups)
+- [AZ900 Describe Cloud Concepts](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-cloud-concepts)
+- [Tour Azure Portal](https://docs.microsoft.com/pt-br/learn/modules/tour-azure-portal)
+- [Control and Organize with Azure Resource Manager](https://docs.microsoft.com/pt-br/learn/modules/control-and-organize-with-azure-resource-manager)
