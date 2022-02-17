@@ -56,3 +56,6 @@ As configurações de gerenciamento são aplicadas em qualquer desses níveis de
 - [Azure For Students](https://azure.microsoft.com/pt-br/free/students)
 - [Azure Resource Manager](https://docs.microsoft.com/pt-br/azure/azure-resource-manager)
 - [Management Groups](https://docs.microsoft.com/pt-br/azure/governance/management-groups)
+- [AZ900 Describe Cloud Concepts](https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-cloud-concepts)
+- [Tour Azure Portal](https://docs.microsoft.com/pt-br/learn/modules/tour-azure-portal)
+- [Control and Organize with Azure Resource Manager](https://docs.microsoft.com/pt-br/learn/modules/control-and-organize-with-azure-resource-manager)
